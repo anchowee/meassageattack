@@ -16,3 +16,9 @@
 <a>下载测试一下</a>
 [image](http://anchowee.5338e9b1c3d8f.d01.nanoyun.com/mainwindows.jpg )
  ![image](http://anchowee.5338e9b1c3d8f.d01.nanoyun.com/mainwindows.jpg)
+
+
+-------------------------------------------------------------
+我来自湖南长沙！
+[欢迎访问我的博客](http://www.anchowee.nets.hk)
+**或者访问** [这里](http;//overanchowee.tk)
